@@ -1,0 +1,20 @@
+{
+  "name": "travelmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mapbox-gl": "^0.45.0",
+    "preact": "^8.2.9",
+    "webpack": "^4.8.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.1.3"
+  }
+}

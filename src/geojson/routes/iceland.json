@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "imageSrc": "http://via.placeholder.com/150x150",
+        "description": "day one: reykjavik..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.92047119140625,
+          64.13577516756123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "imageSrc": "http://via.placeholder.com/150x250",
+        "description": "day two: long drive..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.917236328125,
+          64.83492583984236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "imageSrc": "http://via.placeholder.com/250x150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.994873046875,
+          63.93737246791484
+        ]
+      }
+    }
+  ]
+}

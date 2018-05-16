@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.640625,
+          39.095962936305476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8046875,
+          45.089035564831036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.95068359375,
+          64.11060221954631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "iceland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.639404296875,
+          -3.3434377908244244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "iceland"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.71081542968749,
+            -3.310534356192326
+          ],
+          [
+            37.3370361328125,
+            -3.348921589569934
+          ],
+          [
+            37.3370361328125,
+            -3.074695072369682
+          ]
+        ]
+      }
+    }
+  ]
+}
